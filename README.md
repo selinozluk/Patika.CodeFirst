@@ -20,7 +20,7 @@ Veritabanında iki tablo yer almaktadır: **Movies** ve **Games**.
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - .NET 8.0
 - Entity Framework Core 8.0
 - SQL Server (LocalDB)
